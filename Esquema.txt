@@ -1,0 +1,14 @@
+backup-api/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── example/
+│   │   │           └── backupapi/
+│   │   │               ├── BackupApiApplication.java
+│   │   │               ├── BackupController.java
+│   │   │               └── BackupService.java
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       └── backup.sh
+└── pom.xml

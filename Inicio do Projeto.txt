@@ -1,0 +1,25 @@
+# Projetos DBA
+
+Este repositório contém vários projetos e scripts úteis para administradores de banco de dados.
+
+## Projetos
+
+### 1. Backup e Recuperação
+- [Script de Backup Automático](./backup_recuperacao/backup_automatico.sql)
+- [Script de Recuperação](./backup_recuperacao/recuperacao.sql)
+
+### 2. Monitoramento e Alertas
+- [Monitoramento de Desempenho](./monitoramento_alertas/monitoramento_desempenho.sql)
+- [Alertas de Erro](./monitoramento_alertas/alertas_erro.sql)
+
+### 3. Rotinas de Manutenção
+- [Atualização de Estatísticas](./rotinas_manutencao/atualizacao_estatisticas.sql)
+- [Reconstrução de Índices](./rotinas_manutencao/reconstrucao_indices.sql)
+
+### 4. Documentação de Banco de Dados
+- [Diagrama ER do Sistema X](./documentacao_bd/diagrama_er_sistema_x.png)
+- [Esquema do Banco de Dados Y](./documentacao_bd/esquema_bd_y.md)
+
+## Contribuições
+
+Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este repositório.
